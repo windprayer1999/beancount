@@ -10,6 +10,7 @@
 .noseids
 .pytest_cache/*
 TAGS
+tags
 bazel-*
 beancount.egg-info
 beancount/parser/grammar.output
