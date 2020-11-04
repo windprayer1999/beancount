@@ -18,3 +18,4 @@ beancount/parser/tokens_test
 build
 dist
 examples/generated/*
+cscope.*
